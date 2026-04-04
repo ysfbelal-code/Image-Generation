@@ -3,5 +3,4 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-HF_API_KEY = os.getenv("HF_API_KEY", "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")
-
+HF_API_KEY = os.getenv("HF_API_KEY", "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")
